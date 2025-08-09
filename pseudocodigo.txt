@@ -1,0 +1,26 @@
+Pseudocódigo
+
+
+início
+
+pergunte qual o preço
+defina preço = resposta
+pergunte qual o imposto
+defina o imposto = resposta
+pergunte qual o desconto
+defina o desconto = resposta
+
+desconto = desconto/100 
+imposto = imposto/100
+desconto = desconto*preço 
+preço final = preço-desconto
+imposto = preço final*imposto 
+preço final = preço final+imposto 
+
+imprima “O preço é: (preço final)”
+
+fim do programa
+
+
+
+
