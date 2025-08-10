@@ -15,7 +15,7 @@ Assim, não foi tão problematico esse projeto, o maior problema foi algumas con
 Pra resolver foi mais tentaiva e erro e um pouquinho de lógica. Um exemplo de uma falha lógica meio engraçada foi que colocamos o dado do desconto e imposto como INT no inicio, algo que não faz nenhum sentido já que em uma das etapas do código esses valores se tornam decimais e eu só acho que INT não serve para números decimais, mas tipo **só acho**.
 
 **COMO RODAR O PROJETO**
-Teoricamente é só dar um CD Gabriel, depois um gcc algoritmo.c e depois um ./a.out
+Teoricamente é só jogar no codespace e dar um cd, gcc e tals.
 MAS eu duvido que seja sobre isso e sim como o script funciona e tals. Então vamos dividir em 3 etapas:
 
 1 etapa - Tipos valores
